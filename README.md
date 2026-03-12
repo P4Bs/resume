@@ -65,7 +65,7 @@ I collaborated with cross-functional teams on high-profile banking projects in A
 ### Bachelor of Engineering - Computer Science 
 **Universidad de Málaga** |  *Málaga, Spain* | *Graduation: September 2023*
 
-**Average Grade: 7.79** | *Weighted GPA: 3.46 / 4.0* (Calculated using **specify**)
+**Average Grade: 7.79**
 
 **Distinguished Courses:**
 
